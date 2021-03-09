@@ -100,4 +100,4 @@ class Fun(commands.Cog):
 		await ctx.send(c)
 bot.add_cog(Fun(bot))
 bot.add_cog(Music(bot))
-bot.run('Nzg5MDQ1OTM3NzU4MjczNTU3.X9sWSw.Gx3Cswps3m2jJISf91YmkbAmSJo')
+bot.run('Token')
