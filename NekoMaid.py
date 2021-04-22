@@ -3,7 +3,7 @@ import discord
 import youtube_dl
 from discord.ext import commands
 
-bot = commands.Bot(command_prefix =commands.when_mentioned_or("!"), description = 'NekoMaid Is private bot for Net Boukensha Guild Maintainance by Nakshima \n on progress')
+bot = commands.Bot(command_prefix =commands.when_mentioned_or("!"), description = 'NekoMaid Is private bot for Net Boukensha Guild Maintainance by Nakashima \n on progress')
 
 @bot.event
 async def siap():
